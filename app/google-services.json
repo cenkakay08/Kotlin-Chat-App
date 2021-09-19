@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546521313367",
+    "firebase_url": "https://kotlin-chat-app-73491-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kotlin-chat-app-73491",
+    "storage_bucket": "kotlin-chat-app-73491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546521313367:android:aa0e2c5ba4e2c0cdd2f312",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546521313367-vqqi8djf275tq20vj2u8iui3h1q9hjep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfHZj12kV6P6xQCJpbHFosVc5gIi-H2AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546521313367-vqqi8djf275tq20vj2u8iui3h1q9hjep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
